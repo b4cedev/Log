@@ -6,7 +6,7 @@
     "homepage": "https://github.com/pear/Log",
     "license": "MIT",
     "require": {
-        "php" : ">5.2"
+        "php" : ">=5.0"
     },
     "autoload": {
         "classmap": ["Log/", "Log.php"]
